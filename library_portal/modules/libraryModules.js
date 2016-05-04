@@ -1,0 +1,1 @@
+var libraryManagementPortal = angular.module("libraryManagementPortal", []);

@@ -1,0 +1,15 @@
+users:[
+	{
+	"username":"Ritu",
+	"password" : "Ritu"
+	},
+	{
+	"username":"Ritu1",
+	"password" : "Ritu1"
+	},
+	{
+	"username":"Ritu2",
+	"password" : "Ritu2"
+	}
+	];
+

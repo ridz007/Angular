@@ -1,0 +1,14 @@
+body {
+background: cyan;
+}
+
+#title {
+color: white;
+background: blue;
+}
+
+#loginForm {
+background: grey;
+border: 2px solid grey;
+border-radius: 5px;
+}
